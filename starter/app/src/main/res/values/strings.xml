@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="title_login">Login</string>
+    <string name="welcome_header">Welcome to Shoe Store</string>
+    <string name="welcome_body">Using this app you would be able to browse and buy fancy shoes</string>
+    <string name="title_welcome">Welcome</string>
+    <string name="next">Next</string>
+    <string name="instructions_header">Please follow the instructions below</string>
+    <string name="instructions_body">1. Tap the + icon to add a new shoe item to your inventory\n2. Tap the Save Button to save the shoe to your inventory</string>
+    <string name="title_instruction">Instructions</string>
+    <string name="create_new_item">Create new item</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="shoe_name_hint">Enter shoe name</string>
+    <string name="company">Company</string>
+    <string name="company_hint">Enter company name</string>
+    <string name="shoe_size">Shoe Size</string>
+    <string name="shoe_size_hint">Enter shoe size</string>
+    <string name="description_hint">Enter shoe description details</string>
+    <string name="description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="title_shoe_details">Shoe Details</string>
+    <string name="title_shoe_list">Shoe List</string>
+    <string name="logout">Logout</string>
+</resources>
